@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMP12A_1904_STOKTAKİPPROGRAMI", "AMP12A_1904_STOKTAKİPPROGRAMI\AMP12A_1904_STOKTAKİPPROGRAMI.csproj", "{927AC8AA-7C52-44B1-B36E-777165D01AC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{927AC8AA-7C52-44B1-B36E-777165D01AC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{927AC8AA-7C52-44B1-B36E-777165D01AC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{927AC8AA-7C52-44B1-B36E-777165D01AC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{927AC8AA-7C52-44B1-B36E-777165D01AC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C71F2BE5-F7A3-405A-A4C1-1B43786825A5}
+	EndGlobalSection
+EndGlobal
